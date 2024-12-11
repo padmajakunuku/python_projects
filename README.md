@@ -1,5 +1,6 @@
 # python_projects
 This is my first project.
+
 Overview
 
 This Budget Management Application is a simple and efficient tool for managing personal finances. It allows users to set an initial budget, track expenses, and view remaining balances. The application uses JSON for persistent data storage, enabling users to save and retrieve their budget details.
